@@ -1,6 +1,6 @@
 <h1>&emsp;&emsp;&emsp;Hi✌ My name is Fco Javier!</h1>
 
-<h1>&emsp;&emsp;&emsp;👨‍💻I´m a computer technician and future Developer👨‍💻</h1>
+<h2>&emsp;&emsp;&emsp;👨‍💻I´m a computer technician and future Developer👨‍💻</h2>
 
 - I´m currently working on a transport company🚚🚗.
 - I´m currently learning a **Bootcamp Full Stack Developer** with **4GeeksAcademy**
